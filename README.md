@@ -4,7 +4,7 @@ This project was developed as a disk monitor widget for windows widgets.
 
 ### Internal Settings
 
-disk_letter takes a specific disk name. If "Total" is written, it shows the total usage.
+**disk_letter** takes a specific disk name. If **"Total"** is written, it shows the total usage.
 
 ```json
 {
